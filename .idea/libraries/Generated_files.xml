@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/js/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/src/js/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/Gruntfile.js" />
+        <item url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/vendor/js/modernizr.flexbox.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/app/bundle.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/bundle.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/src/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/Gruntfile.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/vendor/js/modernizr.flexbox.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/src/js/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/Gruntfile.js" />
+      <root url="file://$PROJECT_DIR$/dist/bower_components/flexboxgrid/vendor/js/modernizr.flexbox.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
